@@ -1,0 +1,22 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+
+## Visual Studio
+.vs/
+
+## Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+## Copilot
+CopilotIndices/
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
